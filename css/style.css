@@ -1,0 +1,98 @@
+
+.font-name{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 75px;
+    font-weight: 500;
+    line-height: 80px;
+}
+.height{
+    height: 715px;
+    background-color: #FFFBF0;  
+}
+.navigation-word{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+.penguin-card-footer{
+    border: 0;
+    background-color: white;
+}
+.gap{
+    margin-top: 200px;
+}
+.area{
+    margin-top: 350px;
+}
+.postion{
+    margin-bottom: 200px;
+}
+.shoe{
+    position: relative;
+    margin-bottom: 100px;
+}
+.container{
+    position: relative;
+}
+.custom-img{
+    position: relative;
+    bottom: 95px;
+}
+.card-image{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+.last-card-image{
+    width: 100%;
+    height: 270px;
+    object-fit: cover;
+}
+.difference{
+    margin-top: 40px;
+}
+.fonts{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+.price{
+    color: #FA804C;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 42px;
+}
+.button{
+    background: linear-gradient(180deg,#3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 24px;
+    height: 60px;
+    width: 170px;
+    color: white;
+    border: 0;
+}
+.border{
+    border-radius: 20px;
+    border: 0;
+    border-color: white;
+}
+.ind-fonts{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #3E3E3E;
+}
+.extra-css{
+    background-color: lightblue;
+    border-radius: 10px;
+}
